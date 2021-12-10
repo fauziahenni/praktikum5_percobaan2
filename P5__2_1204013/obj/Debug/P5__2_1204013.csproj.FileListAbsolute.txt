@@ -1,0 +1,7 @@
+c:\users\asus\documents\visual studio 2015\Projects\P5__2_1204013\P5__2_1204013\bin\Debug\P5__2_1204013.dll
+c:\users\asus\documents\visual studio 2015\Projects\P5__2_1204013\P5__2_1204013\bin\Debug\P5__2_1204013.pdb
+c:\users\asus\documents\visual studio 2015\Projects\P5__2_1204013\P5__2_1204013\obj\Debug\P5__2_1204013.csprojResolveAssemblyReference.cache
+c:\users\asus\documents\visual studio 2015\Projects\P5__2_1204013\P5__2_1204013\obj\Debug\P5__2_1204013.DigitalClock.resources
+c:\users\asus\documents\visual studio 2015\Projects\P5__2_1204013\P5__2_1204013\obj\Debug\P5__2_1204013.csproj.GenerateResource.Cache
+c:\users\asus\documents\visual studio 2015\Projects\P5__2_1204013\P5__2_1204013\obj\Debug\P5__2_1204013.dll
+c:\users\asus\documents\visual studio 2015\Projects\P5__2_1204013\P5__2_1204013\obj\Debug\P5__2_1204013.pdb
